@@ -1,11 +1,11 @@
 from numpy import *
+import pickle
+from os import remove, path
 
 def relu(x):
     return maximum(0, x)
 def sigmoid(x):
     return 1/(1+exp(-x))
-def tanh(x):
-    return tanh(x)
 def softplus(x):
     return log(1+e**x)
 def softmax(x):
@@ -98,3 +98,18 @@ class modelArchitecture:
         print("Hidden Layer Nodes:", model.hiddenl.nodes)
         print("Output Layer Nodes:", model.outputl.nodes)
         print("Activation Functions:", model.input_activation,model.hidden_activation, model.output_activation)
+class saveModel:
+    def __init__(self, model):
+        self.model = model
+        with open('model.pickle', 'wb') as f:
+            pickle.dump(self.model,f)
+class loadModel:
+    def __init__(self,model):
+        with open('model.pickle', 'rb') as f:
+            model = pickle.load(f)
+class deleteSavedModel:
+    def __init__(self, model):
+        if isinstance(model, str) and path.isfile(model+".pickle"):
+            remove(model+".pickle")
+        else:
+            raise ValueError("File doesn't exist.")
