@@ -23,7 +23,7 @@ MatrixForge consists of the following modules:
 To start using the MatrixForge library, import the appropriate classes or modules. An example of using the library looks like this:
 
 
-from matrixforge import *
+''' from matrixforge import * '''
 
 - Creation of neural network layers
 i = createLayer(nodes=3, activation='relu')
