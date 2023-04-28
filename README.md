@@ -24,9 +24,9 @@ import matrixforge as mf
 
 # Creating a neural network layers
 
-inputlayer = mf.createLayer(nodes=3, activation='relu') 
+inputlayer = mf.createLayer(nodes=4, activation='relu') 
 hiddenlayer = mf.createLayer(nodes=3, activation='sigmoid')
-outputlayer = mf.createLayer(nodes=2, activation='softmax')
+outputlayer = mf.createLayer(nodes=1, activation='softmax')
 
 # Creating a neural network model
 
