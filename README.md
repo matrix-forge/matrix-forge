@@ -9,13 +9,13 @@ MatrixForge consists of the following modules:
 
 - **modelCreate** - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
 
-- forwardPropagation - a class that performs forward propagation for a neural network model.
+- **forwardPropagation** - a class that performs forward propagation for a neural network model.
 
-- backPropagation - a class that implements backpropagation for the neural network model.
+- **backPropagation** - a class that implements backpropagation for the neural network model.
 
-- modelTrain - a class that allows you to train a neural network model.
+- **modelTrain** - a class that allows you to train a neural network model.
 
-- modelArchitecture - a class that allows you to display the architecture of the created neural network model.
+- **modelArchitecture** - a class that allows you to display the architecture of the created neural network model.
 
 ## Usage
 To start using the MatrixForge library, import the appropriate classes or modules. A simplest example of using the library looks like this:
