@@ -18,7 +18,7 @@ MatrixForge consists of the following modules:
 - modelArchitecture - a class that allows you to display the architecture of the created neural network model.
 
 ## Usage
-To start using the MatrixForge library, import the appropriate classes or modules. An example of using the library looks like this:
+To start using the MatrixForge library, import the appropriate classes or modules. A simplest example of using the library looks like this:
 ```
 import matrixforge as mf
 
