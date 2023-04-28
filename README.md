@@ -22,22 +22,24 @@ MatrixForge consists of the following modules:
 ## Usage
 To start using the MatrixForge library, import the appropriate classes or modules. An example of using the library looks like this:
 ```
+from matrixforge import *
 
- from matrixforge import *
+# Creating a neural network layers
 
-- Creation of neural network layers
 i = createLayer(nodes=3, activation='relu') 
 h = createLayer(nodes=3, activation='sigmoid')
 o = createLayer(nodes=2, activation='sigmoid')
 
-### Creating a neural network model
+# Creating a neural network model
+
 model = forwardPropagation(Model(i, h, o, hiddenlayeram=1), biasvalue=1)
 
-- Training a neural network model
-y = [[1, 0], [0, 1]]
-model = backPropagation(model=model, learning_rate=0, expectedvalue=y) ```
+# Training a neural network model
 
-- Displaying the architecture of the neural network model
+y = [[1, 0], [0, 1]]
+model = backPropagation(model=model, learning_rate=0, expectedvalue=y)
+
+# Displaying the architecture of the neural network model
+
 modelArchitecture(model)
-Range of applications
-The MatrixForge library can be used to build and train neural networks in various fields
+```
