@@ -5,25 +5,24 @@ MatrixForge is a library for building and training neural networks written in Py
 Library content
 MatrixForge consists of the following modules:
 
-createLayer - a class that allows you to create layers of neural networks, where the user can define the number of nodes in a layer and the activation function for this layer.
+- createLayer - a class that allows you to create layers of neural networks, where the user can define the number of nodes in a layer and the activation function for this layer.
 
-Model - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
+- Model - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
 
-forwardPropagation - a class that performs forward propagation for a neural network model.
+- forwardPropagation - a class that performs forward propagation for a neural network model.
 
-backPropagation - a class that implements backpropagation for the neural network model.
+- backPropagation - a class that implements backpropagation for the neural network model.
 
-modelTrain - a class that allows you to train a neural network model.
+- modelTrain - a class that allows you to train a neural network model.
 
-modelArchitecture - a class that allows you to display the architecture of the created neural network model.
+- modelArchitecture - a class that allows you to display the architecture of the created neural network model.
 
-activation - a module containing activation functions used in the library.
+- activation - a module containing activation functions used in the library.
 
 Usage
 To start using the MatrixForge library, import the appropriate classes or modules. An example of using the library looks like this:
 
-python
-copy code
+
 from matrixforge import *
 
 - Creation of neural network layers
