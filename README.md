@@ -7,7 +7,7 @@ MatrixForge consists of the following modules:
 
 - createLayer - a class that allows you to create layers of neural networks, where the user can define the number of nodes in a layer and the activation function for this layer.
 
-- modelCreate - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
+- **modelCreate** - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
 
 - forwardPropagation - a class that performs forward propagation for a neural network model.
 
