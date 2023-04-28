@@ -25,10 +25,12 @@ To start using the MatrixForge library, import the appropriate classes or module
 
 ``` from matrixforge import * ```
 
-- Creation of neural network layers ```
-i = createLayer(nodes=3, activation='relu') h = createLayer(nodes=3, activation='sigmoid') o = createLayer(nodes=2, activation='sigmoid') ```
+- Creation of neural network layers
+i = createLayer(nodes=3, activation='relu') 
+h = createLayer(nodes=3, activation='sigmoid')
+o = createLayer(nodes=2, activation='sigmoid')
 
-- Creating a neural network model
+### Creating a neural network model
 model = forwardPropagation(Model(i, h, o, hiddenlayeram=1), biasvalue=1) ```
 
 - Training a neural network model
