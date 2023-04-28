@@ -19,7 +19,7 @@ MatrixForge consists of the following modules:
 
 ## Usage
 To start using the MatrixForge library, import the appropriate classes or modules. A simplest example of using the library looks like this:
-```
+```python
 import matrixforge as mf
 
 # Creating a neural network layers
@@ -39,5 +39,5 @@ model = mf.backPropagation(model=model, learning_rate=0, expectedvalue=y)
 
 # Displaying the architecture of the neural network model
 
-mf.modelArchitecture(model) //Python
+mf.modelArchitecture(model)
 ```
