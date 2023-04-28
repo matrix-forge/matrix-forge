@@ -7,7 +7,7 @@ MatrixForge consists of the following modules:
 
 - createLayer - a class that allows you to create layers of neural networks, where the user can define the number of nodes in a layer and the activation function for this layer.
 
-- Model - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
+- modelCreate - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
 
 - forwardPropagation - a class that performs forward propagation for a neural network model.
 
@@ -30,7 +30,7 @@ o = mf.createLayer(nodes=2, activation='sigmoid')
 
 # Creating a neural network model
 
-model = mf.forwardPropagation(mf.Model(i, h, o, hiddenlayeram=1), biasvalue=1)
+model = mf.forwardPropagation(mf.modelCreate(i, h, o, hiddenlayeram=1), biasvalue=1)
 
 # Training a neural network model
 
