@@ -24,13 +24,13 @@ import matrixforge as mf
 
 # Creating a neural network layers
 
-i = mf.createLayer(nodes=3, activation='relu') 
-h = mf.createLayer(nodes=3, activation='sigmoid')
-o = mf.createLayer(nodes=2, activation='sigmoid')
+inputlayer = mf.createLayer(nodes=3, activation='relu') 
+hiddenlayer = mf.createLayer(nodes=3, activation='sigmoid')
+outputlayer = mf.createLayer(nodes=2, activation='softmax')
 
 # Creating a neural network model
 
-model = mf.forwardPropagation(mf.modelCreate(i, h, o, hiddenlayeram=1), biasvalue=1)
+model = mf.forwardPropagation(mf.modelCreate(inputlayer, hiddenlayer, outputlayer, hiddenlayeram=1), biasvalue=1)
 
 # Training a neural network model
 
