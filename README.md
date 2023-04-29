@@ -1,4 +1,5 @@
  ![Alt text](/branding/logo1.png "Optional title")
+ <a href="url"><img src="/branding/logo1.png" height="48" width="48" ></a>
  
  # MatrixForge - Documentation
 
