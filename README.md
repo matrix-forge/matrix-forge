@@ -55,3 +55,4 @@ mf.modelArchitecture(model)
 ```
 
 ## License
+***[MIT](/LICENCE.txt)***
