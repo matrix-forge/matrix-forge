@@ -53,3 +53,5 @@ model = mf.backPropagation(model=model, learning_rate=0, expectedvalue=y)
 
 mf.modelArchitecture(model)
 ```
+
+## License
