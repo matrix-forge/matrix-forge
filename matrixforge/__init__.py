@@ -1,9 +1,14 @@
+'''
+MatrixForge
+===========
+Copyright (C) 2023 Kacper Popek 
+All rights reserved(FOR MORE INFORMATIONS READ LICENCE)
+'''
+
 from numpy import *
-import pickle
-from os import remove, path
 from matrixforge.activation import *
 
-class Layer:
+class createLayer:
     def __init__(self, nodes, activation=''):
         self.nodes = nodes
         self.activation = activation
@@ -54,28 +59,14 @@ class backPropagation:
         self.weights = model.inputweights, model.hiddenweights
         self.learning_rate = learning_rate
         self.biasvalue = model.biasvalue
-class modelArchitecture:
+class modelTrain:
+    def __init__(self,model,epochs):
+        self.model = model
+        self.epochs = epochs
+class Visualize:
     def __init__(self, model):
         print("Bias Value:", model.biasvalue,'\n')
         print("Input Layer Value:", model.inputr,'\n')
         print("Hidden Layer Value:", model.hiddenlfp,'\n')
         print("Output Layer Value:", model.outputlfp,'\n')
         print("Activation Functions:","\n","Input Layer:",model.input_activation,"\n","Hidden Layer:",model.hidden_activation,"\n","Output Layer:",model.output_activation)
-class saveModel:
-    def __init__(self, model):
-        self.model = model
-        with open('model.pickle', 'wb') as f:
-            pickle.dump(self.model, f)
-class loadModel:
-    def __init__(self, model):
-        with open('model.pickle', 'rb') as f:
-            model = pickle.load(f)
-class deleteSavedModel:
-    def __init__(self, model):
-        if isinstance(model, str) and path.isfile(model+".pickle"):
-            remove(model+".pickle")
-        else:
-            raise ValueError("File doesn't exist.")
-class Train:
-    def __init__(self):
-        pass
