@@ -1,6 +1,6 @@
  # MatrixForge - Documentation
 
-**MatrixForge** is a library for building and training neural networks written in Python. This library allows you to create and train neural networks in a simple and intuitive way, using built-in tools. The MatrixForge library was created to provide an easy and convenient way to build and train neural networks.
+**MatrixForge** is a open-source framework for building and training neural networks written in Python highly inspired by NumPy and TensorFlow . This library allows you to create and train neural networks in a simple and intuitive way, using built-in tools. The MatrixForge library was created to provide an easy and convenient way to build and train neural networks.
 
 ## Library content
 MatrixForge consists of the following modules:
