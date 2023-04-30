@@ -53,3 +53,6 @@ mf.modelArchitecture(model)
 
 ## License
 [MIT License](/LICENCE.txt)
+
+## Author
+[Author](/LICENCE.txt)
