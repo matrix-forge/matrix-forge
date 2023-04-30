@@ -20,7 +20,7 @@ MatrixForge consists of the following modules:
 - ***modelArchitecture*** - a class that allows you to display the architecture of the created neural network model.
 
 ## Installation
-Pip:
+PyPI:
 ```python
 pip install matrixforge
 ```
