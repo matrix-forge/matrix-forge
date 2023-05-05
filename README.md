@@ -9,7 +9,7 @@ MatrixForge consists of the following modules:
 
 - ***createLayer*** - a class that allows you to create layers of neural networks, where the user can define the number of nodes in a layer and the activation function for this layer.
 
-- ***modelCreate*** - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
+- ***createModel*** - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
 
 - ***forwardPropagation*** - a class that performs forward propagation for a neural network model.
 
@@ -17,7 +17,7 @@ MatrixForge consists of the following modules:
 
 - ***modelTrain*** - a class that allows you to train a neural network model.
 
-- ***modelArchitecture*** - a class that allows you to display the architecture of the created neural network model.
+- ***model_visualize*** - a class that allows you to display the architecture of the created neural network model.
 
 ## Installation
 To start using the MatrixForge library, install it via PyPI or Conda:
