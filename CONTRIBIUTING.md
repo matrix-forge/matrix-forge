@@ -4,11 +4,7 @@
 
 Thank ***you*** all for your willingness to develop this project with us, below you will find the steps on how to do it:
 
-## Coding style:
-- Use PEP8 as a coding style
-
-
-
+## Steps:
 - Make sure you have the latest version of the repository.
 
 - Create a branch with a name that describes the changes you're making.
@@ -24,3 +20,6 @@ Thank ***you*** all for your willingness to develop this project with us, below 
 - Send a pull request to the main branch.
 
 - Expect team members to review your code.
+
+## Coding style:
+- Use PEP8 as a coding style
