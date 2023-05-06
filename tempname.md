@@ -1,3 +1,5 @@
+![Alt text](/branding/logo1.png "Optional title")
+
 # MatrixForge - Logo Guidelines
 
 These guidelines are meant to help keep the MatrixForge logo consistent and recognizable across all its uses. They also provide a common language for referring to the logos and their components.
