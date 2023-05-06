@@ -2,4 +2,7 @@
 
 # MatrixForge - Contribution
 
-Thank ***you*** all for your willingness to develop this project, below you will find the steps on how to do it:
+Thank ***you*** all for your willingness to develop this project with us, below you will find the steps on how to do it:
+
+## Coding style:
+- Use PEP8 as a coding style
