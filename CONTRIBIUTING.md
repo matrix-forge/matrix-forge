@@ -11,7 +11,7 @@ Thank ***you*** all for your willingness to develop this project with us, below 
 
 - Make sure you have the latest version of the repository.
 
-- Create a branch with a name that describes the changes you're making. For example, if you are adding new functionality, name branch 'new-feature'.
+- Create a branch with a name that describes the changes you're making.
 
 - Make your changes to the branch.
 
