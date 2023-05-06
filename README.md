@@ -3,11 +3,11 @@
 > **Warning**
 > The package below may sometimes not work properly due to early development stage
 
-# MatrixForge - Documentation
+# MatrixForge - Introduction
  
 **MatrixForge** is a open-source multi-language framework used building and training artificial neural networks. MatrixForge allows you to create and train neural networks in a simple and intuitive way, using built-in tools. The MatrixForge library was created to provide an easy and convenient way to build and train neural networks.
 
-## Library content
+## Documentation
 MatrixForge consists of the following modules:
 
 - ***createLayer*** - a class that allows you to create layers of neural networks, where the user can define the number of nodes in a layer and the activation function for this layer.
