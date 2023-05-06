@@ -1,11 +1,11 @@
 # MatrixForge - Logo Guidelines
 
-These guidelines are meant to help keep the MF logo consistent and recognizable across all its uses. They also provide a common language for referring to the logos and their components.
+These guidelines are meant to help keep the MatrixForge logo consistent and recognizable across all its uses. They also provide a common language for referring to the logos and their components.
 
-Design
+## Design
 The MF logo consists of two letters, "M" and "F", which are connected together in a stylized way.
 
-Color
+## Color
 The primary color of the MF logo is red (#e60000). The logo should be presented in this color whenever possible. If a monochrome option is necessary, it should be presented in black (#000000).
 
 Minimum Size
