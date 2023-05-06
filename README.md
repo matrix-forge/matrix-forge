@@ -1,8 +1,8 @@
 ![Alt text](/branding/logo1.png "Optional title")
 
-________________________________________________________________________________________________
-**WARNING:** THE FOLLOWING PACKAGE MAY NOT WORK PROPERLY BECAUSE OF ITS EARLY DEVELOPEMENT STAGE 
-________________________________________________________________________________________________
+> **Warning**
+>
+> This is a warning
 
 # MatrixForge - Documentation
  
