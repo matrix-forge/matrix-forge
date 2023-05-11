@@ -30,6 +30,12 @@ Logo powinno być używane w odpowiednich rozmiarach, aby zachować jego czyteln
 - Wersja pełna: szerokość 200 pikseli
 - Wersja uproszczona: szerokość 100 pikseli
 
+## Margins
+Logo powinno być umieszczone w sposób, który zapewni odpowiednie marginesy wokół niego, aby uniknąć przesłaniania przez inne elementy. Poniżej przedstawione są minimalne odległości między logo a innymi elementami:
+
+- Góra/dół: co najmniej 20 pikseli
+- Lewa/prawa strona: co najmniej 20 pikseli
+
 
 
 ### Basic version
