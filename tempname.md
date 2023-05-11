@@ -40,7 +40,7 @@ The logo should be placed in a way that provides adequate margins around it to a
 
 ### Basic version
 
-<img src="/branding/logo1.png" width=50% height=50%>
+<img src="/branding/logo1.png" width=25% height=25%>
 
 ### Wersja uproszczona
 
