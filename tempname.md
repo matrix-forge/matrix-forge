@@ -22,7 +22,7 @@ By following these guidelines, you can help ensure the MatrixForge logo is consi
 Logo jest dostępne w kolorze i w wersji czarno-białej. Poniżej przedstawione są kolory użyte w logo:
 
 - Red: #ff0000
-- Light gray: #CCCCCC
+- Light gray: #a6a6a6
 
 ## Margins
 The logo should be placed in a way that provides adequate margins around it to avoid being obscured by other elements. Below are the minimum distances between the logo and other elements:
