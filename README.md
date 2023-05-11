@@ -1,6 +1,6 @@
 ![Alt text](/branding/logo1.png "Optional title")
 [![DOI](https://zenodo.org/badge/630897036.svg)](https://zenodo.org/badge/latestdoi/630897036)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license) 
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/Kacperaan/MatrixForge/blob/master/LICENCE.txt)
 [![PyPI](https://img.shields.io/pypi/v/hy)](https://pypi.org/project/matrixforge/)
 
 > **Warning** MatrixForge is still in EARLY developement and may not work properly or have some others issues
