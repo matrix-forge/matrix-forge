@@ -54,7 +54,7 @@ model = mf.backPropagation(model=model, learning_rate=0, expectedvalue=y)
 # Displaying the architecture of the neural network model
 mf.modelArchitecture(model)
 ```
-
+## Contributing
 
 ## License
 [MIT License](/LICENCE.txt)
