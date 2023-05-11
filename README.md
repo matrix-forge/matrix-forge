@@ -28,9 +28,8 @@ PyPI:
 ```python
 pip install matrixforge
 ```
-> **Warning** The library is not yet published on Conda
-
 Conda:
+> **Warning** The library is not yet published on Conda
 ```python
 conda install -c anaconda matrixforge
 ```
