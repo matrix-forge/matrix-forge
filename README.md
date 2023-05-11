@@ -1,5 +1,7 @@
 ![Alt text](/branding/logo1.png "Optional title")
 
+[![DOI](https://zenodo.org/badge/630897036.svg)](https://zenodo.org/badge/latestdoi/630897036)
+
 > **Warning** MatrixForge is still in EARLY developement and may not work properly or have some others issues
 
 # MatrixForge - Introduction
