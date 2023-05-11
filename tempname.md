@@ -2,10 +2,8 @@
 
 # MatrixForge - Logo Guidelines
 
-These guidelines are meant to help keep the MatrixForge logo consistent and recognizable across all its uses. They also provide a common language for referring to the logos and their components.
-
-## Color
-The primary color of the MF logo is red rgb(255, 0, 0), but it is not forbidden to use other colors. If a monochrome theme is needed, it should be presented in white rgb(255, 255, 255) with a black background rgb(0, 0, 0) 
+## Description
+The MatrixForge is for use only in projects related to [MatrixForge]. The logo is protected by copyright and may only be used in accordance with these guidelines. You may not use the logo to imply that [project name] endorses, endorses, or is associated with a particular product or service.
 
 ## Logo Integrity
 A few other notes to keep in mind when using the logo:
