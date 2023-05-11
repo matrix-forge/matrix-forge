@@ -58,4 +58,4 @@ model = mf.backPropagation(model=model, learning_rate=0, expectedvalue=y)
 mf.modelArchitecture(model)
 ```
 ## Contributing
-For more info read [Contributing](CONTRIBUTING.md)
+For more info read [Contributing](CONTRIBIUTING.md)
