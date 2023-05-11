@@ -24,6 +24,13 @@ Logo jest dostępne w kolorze i w wersji czarno-białej. Poniżej przedstawione 
 - Red: #ff0000
 - Light gray: #CCCCCC
 
+## Logo Sizes
+Logo powinno być używane w odpowiednich rozmiarach, aby zachować jego czytelność i proporcje. Poniżej przedstawione są minimalne rozmiary dla każdej wersji logo:
+
+- Wersja pełna: szerokość 200 pikseli
+- Wersja uproszczona: szerokość 100 pikseli
+
+
 
 ### Basic version
 
