@@ -1,7 +1,6 @@
 ![Alt text](/branding/logo1.png "Optional title")
 
-> **Warning**
-> MatrixForge is still in EARLY developement and may not work properly or have some others issues
+> **Warning** MatrixForge is still in EARLY developement and may not work properly or have some others issues
 
 # MatrixForge - Introduction
  
@@ -29,6 +28,8 @@ PyPI:
 ```python
 pip install matrixforge
 ```
+> **Warning** The library is not yet published on Conda
+
 Conda:
 ```python
 conda install -c anaconda matrixforge
