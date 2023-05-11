@@ -18,13 +18,13 @@ The logo should always be presented in a legible and clear manner.
 
 By following these guidelines, you can help ensure the MatrixForge logo is consistently represented and easily recognizable across all its uses.
 
-## Logo colors
+## Colors
 Logo jest dostępne w kolorze i w wersji czarno-białej. Poniżej przedstawione są kolory użyte w logo:
 
 - Red: #ff0000
 - Light gray: #CCCCCC
 
-## Logo Sizes
+## Sizes
 Logo powinno być używane w odpowiednich rozmiarach, aby zachować jego czytelność i proporcje. Poniżej przedstawione są minimalne rozmiary dla każdej wersji logo:
 
 - Wersja pełna: szerokość 200 pikseli
