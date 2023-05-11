@@ -32,5 +32,5 @@ The logo should be placed in a way that provides adequate margins around it to a
 
 
 
-### Basic / Simplified version
+## Basic / Simplified version
 <img src="/branding/logo1.png" width=25% height=25%>  <img src="/branding/logo2.png" width=5% height=5%>
