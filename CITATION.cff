@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: If you use this software, please cite it using these metadata.
-title: My Awesome Project
-version: 1.0.0
+title: MatrixForge
+version: 0.1.23
 doi: 10.1234/abcd.12345678
 url: https://github.com/username/my-awesome-project
 author:
-  - name: John Doe
-    email: john.doe@email.com
+  - name: Kacper Popek
+    email: popeqkacper@gmail.com
   - name: Jane Smith
     orcid: 0000-0001-2345-6789
 license: MIT
