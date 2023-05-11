@@ -1,7 +1,7 @@
 ![Alt text](/branding/logo1.png "Optional title")
 
 > **Warning**
-> MatrixForge is still in early developement and may not work sometimes properly
+> MatrixForge is still in early developement and may not work properly
 
 # MatrixForge - Introduction
  
