@@ -58,6 +58,3 @@ model = mf.backPropagation(model=model, learning_rate=0, expectedvalue=y)
 mf.modelArchitecture(model)
 ```
 ## Contributing
-
-## License
-[MIT License](/LICENCE.txt)
