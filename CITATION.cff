@@ -4,7 +4,7 @@ authors:
 - family-names: "Popek"
   given-names: "Kacper"
   orcid: "https://orcid.org/0009-0006-1657-1512"
-title: "MatrixForge"
+title: "matrixforge"
 version: 0.1.23
 doi: 10.5281/zenodo.7923922
 date-released: 2023-5-11
