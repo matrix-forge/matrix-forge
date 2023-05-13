@@ -9,14 +9,14 @@ classifiers = [
 ]
  
 setup(
-  name='MatrixForge',
+  name='matrixforge',
   version='23.0.1',
   description='MatrixForge for neural networks is a set of tools and programming libraries that allow you to quickly and easily create, train and evaluate the effectiveness of ML models.',
-  long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
+  long_description=open('README.md').read(),
   url='',  
   author='Kacper Popek',
   author_email='popeqkacper@gmail.com',
-  license='MIT', 
+  license='Apache 2.0', 
   classifiers=classifiers,
   keywords='machinelearning', 
   packages=find_packages(),
