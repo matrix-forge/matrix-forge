@@ -1,11 +1,14 @@
 from setuptools import setup, find_packages
  
 classifiers = [
-  'Development Status :: 5 - Production/Stable',
+  'Development Status :: 2 - Pre-Alpha',
   'Intended Audience :: Education',
   'Operating System :: Microsoft :: Windows :: Windows 10',
   'License :: OSI Approved :: MIT License',
-  'Programming Language :: Python :: 3'
+  'Programming Language :: Python :: 3',
+  'Topic :: Scientific/Engineering :: Artificial Intelligence',
+  'Topic :: Scientific/Engineering :: Artificial Life',
+  'Topic :: Scientific/Engineering :: Visualization'
 ]
  
 setup(
