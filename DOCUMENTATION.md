@@ -1,4 +1,4 @@
-![Alt text](/branding/logo1.png "Optional title")
+[![Alt text](/branding/logo1.png "Optional title")](https://github.com/Kacperaan/matrixforge)
 
 ## MatrixForge Documentation
 MatrixForge consists of the following modules:
