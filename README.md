@@ -9,21 +9,6 @@
  
 **MatrixForge** is a open-source Python library used building and training artificial neural networks. MatrixForge allows you to create and train neural networks in a simple and intuitive way, using built-in tools. The MatrixForge library was created to provide an easy and convenient way to build and train neural networks.
 
-## Documentation
-MatrixForge consists of the following modules:
-
-- ***createLayer*** - a class that allows you to create layers of neural networks, where the user can define the number of nodes in a layer and the activation function for this layer.
-
-- ***createModel*** - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
-
-- ***forwardPropagation*** - a class that performs forward propagation for a neural network model.
-
-- ***backPropagation*** - a class that implements backpropagation for the neural network model.
-
-- ***modelTrain*** - a class that allows you to train a neural network model.
-
-- ***model_visualize*** - a class that allows you to display the architecture of the created neural network model.
-
 ## Installation
 To start using the MatrixForge library, install it via PyPI or Conda:
 
