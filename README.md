@@ -41,6 +41,6 @@ model = mf.backPropagation(model=model, learning_rate=0, expectedvalue=y)
 # Displaying the architecture of the neural network model
 mf.modelArchitecture(model)
 ```
-## Contributing
 [Documentation](.github/Documentation.md)
+<br></br>
 [Contributing](.github/CONTRIBIUTING.md)
