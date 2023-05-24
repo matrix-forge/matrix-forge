@@ -1,3 +1,5 @@
+![Alt text](/branding/logo1.png "Optional title")
+
 ## Documentation
 MatrixForge consists of the following modules:
 
