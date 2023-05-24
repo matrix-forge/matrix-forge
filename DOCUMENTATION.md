@@ -1,6 +1,6 @@
 ![Alt text](/branding/logo1.png "Optional title")
 
-## Documentation
+## MatrixForge Documentation
 MatrixForge consists of the following modules:
 
 - ***createLayer*** - a class that allows you to create layers of neural networks, where the user can define the number of nodes in a layer and the activation function for this layer.
