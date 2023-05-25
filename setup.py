@@ -4,7 +4,7 @@ classifiers = [
   'Development Status :: 2 - Pre-Alpha',
   'Intended Audience :: Education',
   'Operating System :: Microsoft :: Windows',
-  'License :: OSI Approved :: MIT License',
+  'License :: OSI Approved :: Apache Software License',
   'Programming Language :: Python :: 3',
   'Topic :: Scientific/Engineering :: Artificial Intelligence',
   'Topic :: Scientific/Engineering :: Artificial Life',
