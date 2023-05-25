@@ -1,6 +1,7 @@
 include README.md
 include LICENSE
 include setup.py
+include setup.cfg
 recursive-include matrix_forge *
 recursive-exclude matrix_forge *.pyc
 global-include *.txt *.py
