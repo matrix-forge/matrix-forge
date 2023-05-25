@@ -1,3 +1,4 @@
+[![Alt text](/branding/logo1.png "Optional title")](https://github.com/Kacperaan/matrixforge)
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
