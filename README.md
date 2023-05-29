@@ -26,20 +26,13 @@ To start using the MatrixForge library, import the appropriate classes or module
 ```python
 import matrixforge as mf
 
-# Creating a neural network layers
-inputlayer = mf.createLayer(nodes=4, activation='relu') 
-hiddenlayer = mf.createLayer(nodes=3, activation='sigmoid')
-outputlayer = mf.createLayer(nodes=1, activation='softmax')
+MODEL = mf.Model([
+    mf.Input(nodes=2),
+    mf.Layer(nodes=3, activation='selu'),
+    mf.Layer(nodes=3, activation='softmax')
+])
 
-# Creating a neural network model
-model = mf.forwardPropagation(mf.modelCreate(inputlayer, hiddenlayer, outputlayer, hiddenlayeram=1), biasvalue=1)
-
-# Training a neural network model
-y = [[1, 0], [0, 1]]
-model = mf.backPropagation(model=model, learning_rate=0, expectedvalue=y)
-
-# Displaying the architecture of the neural network model
-mf.modelArchitecture(model)
+a = mf.modelCompute(bias=1, model=MODEL)
 ```
 [Documentation](.github/Documentation.md)
 
