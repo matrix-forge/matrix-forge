@@ -34,6 +34,6 @@ MODEL = mf.Model([
 
 a = mf.modelCompute(bias=1, model=MODEL)
 ```
-[Documentation](DOCUMENTATION.md)
+<img src="/branding/logo2.png" width=2% height=2%>[Documentation](DOCUMENTATION.md)
 
-[Contributing](.github/CONTRIBIUTING.md)
+<img src="/branding/logo2.png" width=2% height=2%>[Contributing](.github/CONTRIBIUTING.md)
