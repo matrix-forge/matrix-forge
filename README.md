@@ -37,3 +37,4 @@ a = mf.modelCompute(bias=1, model=MODEL)
 [Documentation](DOCUMENTATION.md)
 
 [Contributing](.github/CONTRIBIUTING.md)
+[a](/README.md#PyPI)
