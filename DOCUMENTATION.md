@@ -36,3 +36,5 @@
 - ***Hard Tanh***
 
 - ***Swish***
+
+- ***Linear***
