@@ -7,7 +7,7 @@ MatrixForge consists of the following modules:
 
 - ***Model*** - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
 
-- ***forwardPropagation*** - a class that performs forward propagation for a neural network model.
+- ***modelCompute*** - a class that performs forward propagation for a neural network model.
 
 - ***backPropagation*** - a class that implements backpropagation for the neural network model.
 
