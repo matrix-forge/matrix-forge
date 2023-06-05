@@ -24,3 +24,15 @@
 - ***Selu***
 
 - ***Elu***
+
+- ***Sigmoid***
+
+- ***Softmax***
+
+- ***Softplus***
+
+- ***Tanh***
+
+- ***Hard Tanh***
+
+- ***Swish***
