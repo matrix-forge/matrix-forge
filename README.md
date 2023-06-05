@@ -34,6 +34,6 @@ MODEL = mf.Model([
 
 a = mf.modelCompute(bias=1, model=MODEL)
 ```
-[Documentation](/Documentation.md)
+[Documentation](Documentation.md)
 
 [Contributing](.github/CONTRIBIUTING.md)
