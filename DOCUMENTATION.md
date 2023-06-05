@@ -1,7 +1,7 @@
 [![Alt text](/branding/logo1.png "Optional title")](https://github.com/Kacperaan/matrixforge)
 
 ## MatrixForge Documentation
-MatrixForge consists of the following modules:
+### Modules:
 
 - ***Layer*** - a class that allows you to create layers of neural networks, where the user can define the number of nodes in a layer and the activation function for this layer.
 
@@ -14,3 +14,13 @@ MatrixForge consists of the following modules:
 - ***modelCompile*** - a class that allows you to train a neural network model.
 
 - ***model_visualize*** - a class that allows you to display the architecture of the created neural network model.
+
+### Activation Functions:
+
+- ***Relu***
+
+- ***Gelu***
+
+- ***Selu***
+
+- ***Elu***
