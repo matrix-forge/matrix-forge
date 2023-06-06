@@ -9,8 +9,8 @@
  
 **MatrixForge** is a open-source Python library used building and training artificial neural networks. MatrixForge allows you to create and train neural networks in a simple and intuitive way, using built-in tools. The MatrixForge library was created to provide an easy and convenient way to build and train neural networks for everyone.
 
-> **Note** Not every time the actualization will be on time on PyPI or Conda
 ## Installation
+> **Note** Not every time the actualization will be on time on PyPI or Conda
 To start using the MatrixForge library, install it via PyPI or Conda:
 
 PyPI:
