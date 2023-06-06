@@ -19,7 +19,8 @@ The logo should always be presented in a legible and clear manner.
 By following these guidelines, you can help ensure the MatrixForge logo is consistently represented and easily recognizable across all its uses.
 
 ## Colors
-Logo jest dostępne w kolorze i w wersji czarno-białej. Poniżej przedstawione są kolory użyte w logo:
+
+The logo is available in color and black and white. Below are the colors used in the main logo:
 
 - Red: #ff0000
 - Light gray: #a6a6a6
