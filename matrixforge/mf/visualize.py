@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from numpy import *
 
 def model_visualize(layer_sizes,neuron_size='',color=''):
         num_layers = len(layer_sizes)
