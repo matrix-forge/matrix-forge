@@ -1,9 +1,7 @@
 from numpy import *
+from mf.activation import Layer
 
-class Input:
-    def __init__(self, nodes):
-        self.nodes = nodes
-class Model:
+class Model(Layer):
     def __init__(self, nodes):
         self.nodes = len(nodes)
         self.inputl = nodes[0]
