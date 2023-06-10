@@ -18,7 +18,7 @@
 - ***Layer*** - 
 ## M
 - ***Model*** - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
-- ***modelCompute*** - Forward Propagation algorithm of existing model
+- ***modelCompute*** - Forward Propagation algorithm of existing model. Basic use: modelCompute(bias='BIASVALUE', model='MODEL')
 - ***modelCompile*** - Class training Backpropagated model based on x
 - ***modelVisualize*** - a class that allows you to display the architecture of the created neural network model.
 ## N
