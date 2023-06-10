@@ -1,7 +1,6 @@
 [![Alt text](/branding/logo1.png "Optional title")](https://github.com/Kacperaan/matrixforge)
-<p align="center">
- # MatrixForge Documentation
-</p>
+ 
+# MatrixForge Documentation
 
 ## A
 ## B
