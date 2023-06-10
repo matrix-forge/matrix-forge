@@ -36,13 +36,17 @@
 
 ### Activation Functions:
 
-- ***Relu***
+- ***Elu***
 
 - ***Gelu***
 
-- ***Selu***
+- ***Hardtanh***
 
-- ***Elu***
+- ***Linear***
+
+- ***Relu***
+
+- ***Selu***
 
 - ***Sigmoid***
 
@@ -50,10 +54,8 @@
 
 - ***Softplus***
 
-- ***Tanh***
-
-- ***Hard Tanh***
-
 - ***Swish***
 
-- ***Linear***
+- ***Tanh***
+
+elu gelu hardtanh linear relu selu sigmoid softmax softplus swish tanh
