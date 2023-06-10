@@ -57,5 +57,3 @@
 - ***Swish***
 
 - ***Tanh***
-
-elu gelu hardtanh linear relu selu sigmoid softmax softplus swish tanh
