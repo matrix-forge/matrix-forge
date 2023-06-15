@@ -1,4 +1,7 @@
-[![Alt text](/branding/logo1.png "Optional title")](https://github.com/Kacperaan/matrixforge)
+<div align="center">
+<img src="/branding/logo1.png">
+</div>
+ 
 ## <div align="center">A Python library for developing machine learning models</div>
 <br>
 
