@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/branding/logo1.png">
+<img src="/branding/logo2.png" width="25%">
 </div>
  
 ## <div align="center">A Python library for developing machine learning models</div>
