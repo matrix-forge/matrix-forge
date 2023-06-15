@@ -5,9 +5,12 @@
 ## <div align="center">A Python library for developing machine learning models</div>
 <br>
 
+<div align="center">
+ 
 [![DOI](https://zenodo.org/badge/630897036.svg)](https://zenodo.org/badge/latestdoi/630897036)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PyPI](https://img.shields.io/pypi/v/hy)](https://pypi.org/project/matrixforge/)
+ </div>
 
 > **Warning** MatrixForge is still in EARLY developement and may not work properly or have some others issues
 > 
