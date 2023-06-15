@@ -1,5 +1,5 @@
 [![Alt text](/branding/logo1.png "Optional title")](https://github.com/Kacperaan/matrixforge)
-## <div align="center">Python library for machine learning</div>
+## <div align="center">A Python library for developing machine learning models</div>
 <br>
 
 [![DOI](https://zenodo.org/badge/630897036.svg)](https://zenodo.org/badge/latestdoi/630897036)
