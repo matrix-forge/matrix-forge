@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/branding/logo2.png" width="30%">
+ <a href="https://github.com/matrix-forge/matrix-forge"><img src="/branding/logo2.png" width="30%"></img></a>
 </div>
  
 ## <div align="center">A Python library for developing machine learning models</div>
