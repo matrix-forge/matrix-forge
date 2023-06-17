@@ -7,4 +7,3 @@
    - Julia / In progress
    - JavaScript / To do
    - Lua / To do
-   - Golang / To do
