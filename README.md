@@ -42,7 +42,7 @@ To start using the MatrixForge library, import the appropriate classes or module
 >>> mf.Input(nodes=2),
 >>> mf.Layer(nodes=3, activation='selu'),
 >>> mf.Layer(nodes=3, activation='softmax')
-])
+                   ])
 
 >>> a = mf.modelCompute(bias=1, model=MODEL)
 ```
