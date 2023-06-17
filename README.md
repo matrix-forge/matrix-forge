@@ -25,12 +25,12 @@ To start using the MatrixForge library, install it via PyPI or Conda:
 
 PyPI:
 ```python
-pip install matrixforge
+$ pip install matrixforge
 ```
 Conda:
 > **Warning** The library is not yet published on Conda
 ```python
-conda install -c anaconda matrixforge
+$ conda install -c anaconda matrixforge
 ```
 ## Usage
 To start using the MatrixForge library, import the appropriate classes or modules. A simplest example of using the library looks like this:
