@@ -36,15 +36,15 @@ conda install -c anaconda matrixforge
 To start using the MatrixForge library, import the appropriate classes or modules. A simplest example of using the library looks like this:
  ## Python
 ```python
-import matrixforge as mf
+>>> import matrixforge as mf
 
-MODEL = mf.Model([
-    mf.Input(nodes=2),
-    mf.Layer(nodes=3, activation='selu'),
-    mf.Layer(nodes=3, activation='softmax')
+>>> MODEL = mf.Model([
+>>> mf.Input(nodes=2),
+>>> mf.Layer(nodes=3, activation='selu'),
+>>> mf.Layer(nodes=3, activation='softmax')
 ])
 
-a = mf.modelCompute(bias=1, model=MODEL)
+>>> a = mf.modelCompute(bias=1, model=MODEL)
 ```
 [Documentation](DOCUMENTATION.md)
 
