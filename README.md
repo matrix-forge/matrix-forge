@@ -25,27 +25,28 @@ To start using the MatrixForge library, install it via PyPI or Conda:
 
 PyPI:
 ```python
-pip install matrixforge
+$ pip install matrixforge
 ```
 Conda:
 > **Warning** The library is not yet published on Conda
 ```python
-conda install -c anaconda matrixforge
+$ conda install -c anaconda matrixforge
 ```
 ## Usage
-To start using the MatrixForge library, import the appropriate classes or modules. A simplest example of using the library looks like this:
+Simplest MatrixForge model looks like this:
  ## Python
 ```python
-import matrixforge as mf
+>>> import matrixforge as mf
 
-MODEL = mf.Model([
-    mf.Input(nodes=2),
-    mf.Layer(nodes=3, activation='selu'),
-    mf.Layer(nodes=3, activation='softmax')
-])
+>>> MODEL = mf.Model([
+>>> mf.Input(nodes=2),
+>>> mf.Layer(nodes=3, activation='selu'),
+>>> mf.Layer(nodes=3, activation='softmax')])
 
-a = mf.modelCompute(bias=1, model=MODEL)
+>>> a = mf.modelCompute(bias=1, model=MODEL)
 ```
 [Documentation](DOCUMENTATION.md)
 
 [Contributing](.github/CONTRIBIUTING.md)
+
+[To Do](TODO.md)
