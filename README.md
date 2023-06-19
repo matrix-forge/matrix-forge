@@ -41,8 +41,7 @@ To start using the MatrixForge library, import the appropriate classes or module
 >>> MODEL = mf.Model([
 >>> mf.Input(nodes=2),
 >>> mf.Layer(nodes=3, activation='selu'),
->>> mf.Layer(nodes=3, activation='softmax')
-                   ])
+>>> mf.Layer(nodes=3, activation='softmax')])
 
 >>> a = mf.modelCompute(bias=1, model=MODEL)
 ```
