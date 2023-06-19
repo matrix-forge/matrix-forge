@@ -4,7 +4,7 @@
 
 ## A
 ## B
-- ***backPropagation*** - Backpropagation algorithm
+- ***backPropagation*** - Backpropagation algorithm of existing model. Basic use: modelCompute(bias='BIASVALUE', model='MODEL')
 ## C
 ## D
 ## E
