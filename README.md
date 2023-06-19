@@ -33,7 +33,7 @@ Conda:
 $ conda install -c anaconda matrixforge
 ```
 ## Usage
-Simplest MatrixForge model looks like this:
+Example of the simplest MatrixForge model:
  ## Python
 ```python
 >>> import matrixforge as mf
