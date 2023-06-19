@@ -40,7 +40,7 @@ Simplest MatrixForge model looks like this:
 
 >>> MODEL = mf.Model([
 >>> mf.Input(nodes=2),
->>> mf.Layer(nodes=3, activation='selu'),
+>>> mf.Layer(nodes=3, activation='sigmoid'),
 >>> mf.Layer(nodes=3, activation='softmax')])
 
 >>> a = mf.modelCompute(bias=1, model=MODEL)
