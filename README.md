@@ -47,5 +47,5 @@ Example of the simplest MatrixForge model:
 ```
 <div align="center">
  
- [DOCUMENTATION](DOCUMENTATION.md)   [CONTRIBUTING](.github/CONTRIBIUTING.md)   [TO DO](TODO.md)
+ [DOCUMENTATION](DOCUMENTATION.md) [CONTRIBUTING](.github/CONTRIBIUTING.md) [TO DO](TODO.md)
 </div>
