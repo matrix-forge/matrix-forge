@@ -45,6 +45,7 @@ Example of the simplest MatrixForge model:
 
 >>> MODEL = mf.modelCompute(bias=1, model=MODEL)
 ```
+---
 <div align="center">
  
  [DOCUMENTATION](DOCUMENTATION.md) [CONTRIBUTING](.github/CONTRIBIUTING.md) [TO DO](TODO.md)
