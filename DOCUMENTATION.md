@@ -1,26 +1,27 @@
 <div align="center">
-[![Alt text](/branding/logo2-dark.png "Optional title")](https://github.com/Kacperaan/matrixforge)
+  
+   <a href="https://github.com/matrix-forge/matrix-forge"><img src="/branding/logo2-dark.png" width="17%"></img></a>
   </div>
 
 # MatrixForge Documentation
 
 ## A
 ## B
-- ***backPropagation*** - Backpropagation algorithm of existing model. Basic use: modelCompute(bias='BIASVALUE', model='MODEL')
+- ***backPropagation*** - Backpropagation algorithm of existing model. Example use: modelCompute(bias='BIASVALUE', model='MODEL')
 ## C
 ## D
 ## E
 ## F
 ## G
 ## I
-- ***Input*** - Implementation of input layer. Basic use: Input(nodes='NUMBER OF NODES')
+- ***Input*** - Implementation of input layer. Example use: Input(nodes='NUMBER OF NODES')
 ## J
 ## K
 ## L
 - ***Layer*** - 
 ## M
 - ***Model*** - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
-- ***modelCompute*** - Forward Propagation algorithm of existing model. Basic use: modelCompute(bias='BIASVALUE', model='MODEL')
+- ***modelCompute*** - Forward Propagation algorithm of existing model. Example use: modelCompute(bias='BIASVALUE', model='MODEL')
 - ***modelCompile*** - Class training Backpropagated model based on x
 - ***modelVisualize*** - a class that allows you to display the architecture of the created neural network model.
 ## N
