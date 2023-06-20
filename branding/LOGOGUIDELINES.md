@@ -1,4 +1,4 @@
-![Alt text](/branding/logo1.png)
+![Alt text](/branding/logo1-dark.png)
 
 # MatrixForge - Logo Guidelines
 
@@ -32,4 +32,4 @@ The logo should be placed in a way that provides adequate margins around it to a
 - Left/Right side: at least 20 pixels
 
 ## Main / Simplified version
-<img src="/branding/logo1.png" width=25% height=25%>  <img src="/branding/logo2.png" width=5% height=5%>
+<img src="/branding/logo1.png" width=25% height=25%>  <img src="/branding/logo1-dark.png" width=25% height=25%>  <img src="/branding/logo2.png" width=5% height=5%>

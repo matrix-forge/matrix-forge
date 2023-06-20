@@ -43,10 +43,10 @@ Example of the simplest MatrixForge model:
 >>> mf.Layer(nodes=3, activation='sigmoid'),
 >>> mf.Layer(nodes=3, activation='softmax')])
 
->>> a = mf.modelCompute(bias=1, model=MODEL)
+>>> MODEL = mf.modelCompute(bias=1, model=MODEL)
 ```
-[Documentation](DOCUMENTATION.md)
-
-[Contributing](.github/CONTRIBIUTING.md)
-
-[To Do](TODO.md)
+---
+<div align="center">
+ 
+ [DOCUMENTATION](DOCUMENTATION.md)/[CONTRIBUTING](.github/CONTRIBIUTING.md)/[TO DO](TODO.md)
+</div>

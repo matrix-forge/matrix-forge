@@ -1,4 +1,7 @@
-[![Alt text](/branding/logo1.png "Optional title")](https://github.com/Kacperaan/matrixforge)
+<div align="center">
+ <a href="https://github.com/matrix-forge/matrix-forge"><img src="/branding/logo2-dark.png" width="17%"></img></a>
+</div>
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
