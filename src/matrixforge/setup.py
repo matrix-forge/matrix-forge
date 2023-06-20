@@ -24,5 +24,5 @@ setup(
   classifiers=classifiers,
   keywords='machinelearning', 
   packages=find_packages(),
-  install_requires=['numpy', 'dataclasses']
+  install_requires=['numpy']
 )
