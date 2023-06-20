@@ -1,4 +1,4 @@
-![Alt text](/branding/logo1.png)
+![Alt text](/branding/logo1-dark.png)
 
 # MatrixForge - Logo Guidelines
 
