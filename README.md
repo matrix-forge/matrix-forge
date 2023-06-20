@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://github.com/matrix-forge/matrix-forge"><img src="/branding/logo1-dark.png" width="17%"></img></a>
+ <a href="https://github.com/matrix-forge/matrix-forge"><img src="/branding/logo2-dark.png" width="17%"></img></a>
 </div>
  
 ## <div align="center">A Python library for developing machine learning models</div>
@@ -16,7 +16,7 @@
 > 
 # MatrixForge - Introduction
  
-**MatrixForge** is a open-source Python library used building and training artificial neural networks. MatrixForge allows you to create and train neural networks in a simple and intuitive way, using built-in tools. The MatrixForge library was created to provide an easy and convenient way to build and train neural networks for everyone.
+**MatrixForge** is a open-source Python library used building and training artificial neural networks. MatrixForge allows you to create and train neural networks in a simple and intuitive way. The MatrixForge library was created to provide an easy and convenient way to develop neural networks for everyone.
 
 ## Installation
 > **Note** Not every time the actualization will be on time on PyPI or Conda
@@ -33,14 +33,14 @@ Conda:
 $ conda install -c anaconda matrixforge
 ```
 ## Usage
-Simplest MatrixForge model looks like this:
+Example of the simplest MatrixForge model:
  ## Python
 ```python
 >>> import matrixforge as mf
 
 >>> MODEL = mf.Model([
 >>> mf.Input(nodes=2),
->>> mf.Layer(nodes=3, activation='selu'),
+>>> mf.Layer(nodes=3, activation='sigmoid'),
 >>> mf.Layer(nodes=3, activation='softmax')])
 
 >>> a = mf.modelCompute(bias=1, model=MODEL)
