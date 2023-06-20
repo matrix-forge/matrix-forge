@@ -5,7 +5,7 @@ authors:
   given-names: "Kacper"
   orcid: "https://orcid.org/0009-0006-1657-1512"
 title: "matrixforge"
-version: 0.1.23
+version: 23.0.1
 doi: 10.5281/zenodo.7923922
 date-released: 2023-5-11
 url: "https://doi.org/10.5281/zenodo.7923922"
