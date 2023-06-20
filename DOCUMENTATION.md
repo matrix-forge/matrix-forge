@@ -1,5 +1,6 @@
 <div align="center">
-[![Alt text](/branding/logo2-dark.png "Optional title")](https://github.com/Kacperaan/matrixforge)
+  
+  [![Alt text](/branding/logo2-dark.png "Optional title")](https://github.com/Kacperaan/matrixforge)
   </div>
 
 # MatrixForge Documentation
