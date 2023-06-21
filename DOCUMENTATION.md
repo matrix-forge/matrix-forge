@@ -7,21 +7,21 @@
 
 ## A
 ## B
-- ***backPropagation*** - Backpropagation algorithm of existing model. Example use: modelCompute(bias='BIASVALUE', model='MODEL')
+- ***backPropagation*** - Backpropagation algorithm of existing model. Example: backPropagation()
 ## C
 ## D
 ## E
 ## F
 ## G
 ## I
-- ***Input*** - Implementation of input layer. Example use: Input(nodes='NUMBER OF NODES')
+- ***Input*** - Implementation of input layer. Example: Input(nodes='NUMBER OF NODES IN SINGLE LAYER')
 ## J
 ## K
 ## L
 - ***Layer*** - 
 ## M
 - ***Model*** - a class representing a neural network model, consisting of an input layer, one or more hidden layers and an output layer.
-- ***modelCompute*** - Forward Propagation algorithm of existing model. Example use: modelCompute(bias='BIASVALUE', model='MODEL')
+- ***modelCompute*** - Forward Propagation algorithm of existing model. Example: modelCompute(bias='BIASVALUE', model='MODEL')
 - ***modelCompile*** - Class training Backpropagated model based on x
 - ***modelVisualize*** - a class that allows you to display the architecture of the created neural network model.
 ## N
