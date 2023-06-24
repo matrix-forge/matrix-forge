@@ -14,6 +14,6 @@
 # limitations under the License.
 #-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-from mf.activation import *
-from mf.layer import *
-from mf.visualize import *
+from modules.activation import *
+from modules.layer import *
+from modules.visualize import *
